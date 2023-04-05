@@ -57,4 +57,4 @@ calendar2 = [['10:00', '11:30'], ['12:30', '14:30'], ['14:30', '15:00'], ['16:00
 range2 = ['10:00', '18:30']
 meeting_minutes = 30
 
-print(find(calendar1, range1, calendar2, range2, meeting_minutes))
+print(find(calendar1, range1, calendar2, range2, time))
